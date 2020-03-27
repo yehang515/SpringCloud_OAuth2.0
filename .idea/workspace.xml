@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d09f9af-3ac5-4cbf-ab45-70a3d4480192" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response15.json" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZfMyHfnhrvRGMrmQpIq6tMv255" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/distributed-security-resource/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/distributed-security-resource/src/main/resources" />
+      <recent name="$PROJECT_DIR$/distributed-security-resource/src/main/java" />
+      <recent name="$PROJECT_DIR$/distributed-security-uaa/src/main/resources" />
+      <recent name="$PROJECT_DIR$/distributed-security-uaa/src/main/java" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001" />
+          <option name="urlPath" value="oauth/token" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="admin" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="admin" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="scope" />
+                <option name="value" value="scope1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="client1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="123123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001" />
+          <option name="urlPath" value="oauth/token" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="admin" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="user" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="scope" />
+                <option name="value" value="scope1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="client1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="123123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001" />
+          <option name="urlPath" value="oauth/token" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="scope" />
+                <option name="value" value="scope1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="client1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="123123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001" />
+          <option name="urlPath" value="oauth/token" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="scope" />
+                <option name="value" value="scope1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="client1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="123123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001" />
+          <option name="urlPath" value="oauth/token" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="AuthorizationServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="distributed-security-uaa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lee.AuthorizationServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AuthorizationServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d09f9af-3ac5-4cbf-ab45-70a3d4480192" name="Default Changelist" comment="" />
+      <created>1585225947802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585225947802</updated>
+      <workItem from="1585225949471" duration="2472000" />
+      <workItem from="1585285910583" duration="1992000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="470" height="466" key="DebuggerActiveHint" timestamp="1585287662024">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="470" height="466" key="DebuggerActiveHint/53.23.1387.877@53.23.1387.877" timestamp="1585287662024" />
+    <state width="1345" height="285" key="GridCell.Tab.0.bottom" timestamp="1585287929238">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="1345" height="285" key="GridCell.Tab.0.bottom/53.23.1387.877@53.23.1387.877" timestamp="1585287929238" />
+    <state width="1345" height="285" key="GridCell.Tab.0.center" timestamp="1585287929237">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="1345" height="285" key="GridCell.Tab.0.center/53.23.1387.877@53.23.1387.877" timestamp="1585287929237" />
+    <state width="1345" height="285" key="GridCell.Tab.0.left" timestamp="1585287929236">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="1345" height="285" key="GridCell.Tab.0.left/53.23.1387.877@53.23.1387.877" timestamp="1585287929236" />
+    <state width="1345" height="285" key="GridCell.Tab.0.right" timestamp="1585287929237">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="1345" height="285" key="GridCell.Tab.0.right/53.23.1387.877@53.23.1387.877" timestamp="1585287929237" />
+    <state width="1345" height="285" key="GridCell.Tab.1.bottom" timestamp="1585287929240">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="1345" height="285" key="GridCell.Tab.1.bottom/53.23.1387.877@53.23.1387.877" timestamp="1585287929240" />
+    <state width="1345" height="285" key="GridCell.Tab.1.center" timestamp="1585287929239">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="1345" height="285" key="GridCell.Tab.1.center/53.23.1387.877@53.23.1387.877" timestamp="1585287929239" />
+    <state width="1345" height="285" key="GridCell.Tab.1.left" timestamp="1585287929238">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="1345" height="285" key="GridCell.Tab.1.left/53.23.1387.877@53.23.1387.877" timestamp="1585287929238" />
+    <state width="1345" height="285" key="GridCell.Tab.1.right" timestamp="1585287929239">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="1345" height="285" key="GridCell.Tab.1.right/53.23.1387.877@53.23.1387.877" timestamp="1585287929239" />
+    <state width="1345" height="285" key="GridCell.Tab.2.bottom" timestamp="1585287929241">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="1345" height="285" key="GridCell.Tab.2.bottom/53.23.1387.877@53.23.1387.877" timestamp="1585287929241" />
+    <state width="1345" height="285" key="GridCell.Tab.2.center" timestamp="1585287929240">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="1345" height="285" key="GridCell.Tab.2.center/53.23.1387.877@53.23.1387.877" timestamp="1585287929240" />
+    <state width="1345" height="285" key="GridCell.Tab.2.left" timestamp="1585287929240">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="1345" height="285" key="GridCell.Tab.2.left/53.23.1387.877@53.23.1387.877" timestamp="1585287929240" />
+    <state width="1345" height="285" key="GridCell.Tab.2.right" timestamp="1585287929241">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="1345" height="285" key="GridCell.Tab.2.right/53.23.1387.877@53.23.1387.877" timestamp="1585287929241" />
+    <state width="693" height="438" key="XDebugger.FullValuePopup" timestamp="1585287662015">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="693" height="438" key="XDebugger.FullValuePopup/53.23.1387.877@53.23.1387.877" timestamp="1585287662015" />
+    <state x="194" y="224" key="new project wizard" timestamp="1585286205348">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state x="194" y="224" key="new project wizard/53.23.1387.877@53.23.1387.877" timestamp="1585286205348" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/lee/model/MyUserDetails.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/lee/config/SecurityConfig.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/lee/model/MyUserDetails.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
