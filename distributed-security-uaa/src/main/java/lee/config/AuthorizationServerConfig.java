@@ -52,17 +52,16 @@ public class AuthorizationServerConfig extends AuthorizationServerConfigurerAdap
                 .autoApprove(false)
 
                 //这个相当于是client的域名,重定向给code的时候会跳转这个域名
-                .redirectUris("http://www.baidu.com");
+                .redirectUris("http://www.baidu.com")
 
-                /*.and()
-
+                 .and()
                 .withClient("client2")
                 .secret(passwordEncoder.encode("123123"))
                 .resourceIds("resource1")
-                .authorizedGrantTypes("authorization_code", "password", "client_credentials", "implicit", "refresh_token")
+                .authorizedGrantTypes("client_credentials", "refresh_token")
                 .scopes("all")
                 .autoApprove(false)
-                .redirectUris("http://www.qq.com");*/
+                .redirectUris("http://www.qq.com");
     }
 
 

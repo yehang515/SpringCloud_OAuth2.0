@@ -1,6 +1,7 @@
 package lee.config;
 
 import org.springframework.context.annotation.Configuration;
+import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.http.SessionCreationPolicy;
 import org.springframework.security.oauth2.config.annotation.web.configuration.EnableResourceServer;
@@ -8,10 +9,11 @@ import org.springframework.security.oauth2.config.annotation.web.configuration.R
 import org.springframework.security.oauth2.config.annotation.web.configurers.ResourceServerSecurityConfigurer;
 import org.springframework.security.oauth2.provider.token.RemoteTokenServices;
 
-@Configuration
 
 //开启oauth2,reousrce server模式
+@Configuration
 @EnableResourceServer
+@EnableGlobalMethodSecurity(prePostEnabled = true)
 public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
 
     @Override
@@ -20,7 +22,7 @@ public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
         //远程token验证, 普通token必须远程校验
         RemoteTokenServices tokenServices = new RemoteTokenServices();
         //配置去哪里验证token
-        tokenServices.setCheckTokenEndpointUrl("http://127.0.0.1:3001/oauth/check_token");
+        tokenServices.setCheckTokenEndpointUrl("http://127.0.0.1:9098/oauth/check_token");
 
         //配置组件的clientid和密码,这个也是在auth中配置好的
         tokenServices.setClientId("client1");

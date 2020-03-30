@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d09f9af-3ac5-4cbf-ab45-70a3d4480192" name="Default Changelist" comment="" />
+    <list default="true" id="0d09f9af-3ac5-4cbf-ab45-70a3d4480192" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed-security-uaa/src/main/java/lee/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/java/lee/EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-resource/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-resource/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-resource/src/main/java/lee/config/ResourceServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-resource/src/main/java/lee/config/ResourceServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-resource/src/main/java/lee/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-resource/src/main/java/lee/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-resource/src/main/java/lee/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-resource/src/main/java/lee/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-resource/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-resource/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-uaa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-uaa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-uaa/src/main/java/lee/AuthorizationServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-uaa/src/main/java/lee/AuthorizationServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-uaa/src/main/java/lee/config/AuthorizationServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-uaa/src/main/java/lee/config/AuthorizationServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-uaa/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-uaa/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-uaa/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-uaa/target/classes/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-uaa/target/classes/lee/AuthorizationServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-uaa/target/classes/lee/AuthorizationServerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distributed-security-uaa/target/classes/lee/config/AuthorizationServerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/distributed-security-uaa/target/classes/lee/config/AuthorizationServerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="dummy://restClient/response15.json" root0="SKIP_INSPECTION" />
+    <setting file="dummy://restClient/response7.json" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -18,11 +47,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZfMyHfnhrvRGMrmQpIq6tMv255" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -30,10 +63,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/distributed-security-resource/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/eureka-server/src/main/resources" />
+    <property name="show.run.dashboard.notification" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/eureka-server/src/main/resources" />
       <recent name="$PROJECT_DIR$/distributed-security-resource/src/main/resources" />
       <recent name="$PROJECT_DIR$/distributed-security-resource/src/main/java" />
       <recent name="$PROJECT_DIR$/distributed-security-uaa/src/main/resources" />
@@ -43,6 +78,226 @@
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:9098" />
+          <option name="urlPath" value="/oauth/token" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="admin" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="admin" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="scope" />
+                <option name="value" value="scope1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="client1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="123123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:9098" />
+          <option name="urlPath" value="/oauth/token" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="d6918b94-6092-48fb-8909-2e147a432996" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:4001/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="d6918b94-6092-48fb-8909-2e147a432996" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:4001/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="d6918b94-6092-48fb-8909-2e147a4329961" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3001/oauth/token" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="admin" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="admin" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="scope" />
+                <option name="value" value="scope1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="client1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="123123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:4001/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="scope" />
+                <option name="value" value="scope1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="client1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="123123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
           <option name="urlBase" value="http://localhost:3001" />
@@ -258,7 +513,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.ResourceServerApplication">
+    <configuration name="All in rest-api_10" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_10.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="All in rest-api_9" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_9.http">
+      <method v="2" />
+    </configuration>
     <configuration name="AuthorizationServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="distributed-security-uaa" />
       <extension name="coverage">
@@ -272,9 +533,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lee.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResourceServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="distributed-security-resource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lee.ResourceServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ResourceServerApplication" />
         <item itemvalue="Spring Boot.AuthorizationServerApplication" />
+        <item itemvalue="HTTP Request.All in rest-api_10" />
+        <item itemvalue="HTTP Request.All in rest-api_9" />
       </list>
     </recent_temporary>
   </component>
@@ -302,49 +586,75 @@
       <updated>1585225947802</updated>
       <workItem from="1585225949471" duration="2472000" />
       <workItem from="1585285910583" duration="1992000" />
+      <workItem from="1585288135314" duration="7879000" />
+      <workItem from="1585485458539" duration="340000" />
+      <workItem from="1585546758390" duration="3513000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="346" y="128" key="#HTTP_Proxy" timestamp="1585288241528">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state x="346" y="128" key="#HTTP_Proxy/53.23.1387.877@53.23.1387.877" timestamp="1585288241528" />
     <state width="470" height="466" key="DebuggerActiveHint" timestamp="1585287662024">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
     <state width="470" height="466" key="DebuggerActiveHint/53.23.1387.877@53.23.1387.877" timestamp="1585287662024" />
-    <state width="1345" height="285" key="GridCell.Tab.0.bottom" timestamp="1585287929238">
+    <state width="1345" height="230" key="GridCell.Tab.0.bottom" timestamp="1585549452353">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
-    <state width="1345" height="285" key="GridCell.Tab.0.bottom/53.23.1387.877@53.23.1387.877" timestamp="1585287929238" />
-    <state width="1345" height="285" key="GridCell.Tab.0.center" timestamp="1585287929237">
+    <state width="1345" height="230" key="GridCell.Tab.0.bottom/50.23.1390.877@50.23.1390.877" timestamp="1585300815322" />
+    <state width="1345" height="230" key="GridCell.Tab.0.bottom/52.23.1388.877@52.23.1388.877" timestamp="1585300422978" />
+    <state width="1345" height="230" key="GridCell.Tab.0.bottom/53.23.1387.877@53.23.1387.877" timestamp="1585549452353" />
+    <state width="1345" height="230" key="GridCell.Tab.0.center" timestamp="1585549452352">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
-    <state width="1345" height="285" key="GridCell.Tab.0.center/53.23.1387.877@53.23.1387.877" timestamp="1585287929237" />
-    <state width="1345" height="285" key="GridCell.Tab.0.left" timestamp="1585287929236">
+    <state width="1345" height="230" key="GridCell.Tab.0.center/50.23.1390.877@50.23.1390.877" timestamp="1585300815321" />
+    <state width="1345" height="230" key="GridCell.Tab.0.center/52.23.1388.877@52.23.1388.877" timestamp="1585300422977" />
+    <state width="1345" height="230" key="GridCell.Tab.0.center/53.23.1387.877@53.23.1387.877" timestamp="1585549452352" />
+    <state width="1345" height="230" key="GridCell.Tab.0.left" timestamp="1585549452352">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
-    <state width="1345" height="285" key="GridCell.Tab.0.left/53.23.1387.877@53.23.1387.877" timestamp="1585287929236" />
-    <state width="1345" height="285" key="GridCell.Tab.0.right" timestamp="1585287929237">
+    <state width="1345" height="230" key="GridCell.Tab.0.left/50.23.1390.877@50.23.1390.877" timestamp="1585300815321" />
+    <state width="1345" height="230" key="GridCell.Tab.0.left/52.23.1388.877@52.23.1388.877" timestamp="1585300422976" />
+    <state width="1345" height="230" key="GridCell.Tab.0.left/53.23.1387.877@53.23.1387.877" timestamp="1585549452352" />
+    <state width="1345" height="230" key="GridCell.Tab.0.right" timestamp="1585549452353">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
-    <state width="1345" height="285" key="GridCell.Tab.0.right/53.23.1387.877@53.23.1387.877" timestamp="1585287929237" />
-    <state width="1345" height="285" key="GridCell.Tab.1.bottom" timestamp="1585287929240">
+    <state width="1345" height="230" key="GridCell.Tab.0.right/50.23.1390.877@50.23.1390.877" timestamp="1585300815322" />
+    <state width="1345" height="230" key="GridCell.Tab.0.right/52.23.1388.877@52.23.1388.877" timestamp="1585300422977" />
+    <state width="1345" height="230" key="GridCell.Tab.0.right/53.23.1387.877@53.23.1387.877" timestamp="1585549452353" />
+    <state width="1345" height="230" key="GridCell.Tab.1.bottom" timestamp="1585549452355">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
-    <state width="1345" height="285" key="GridCell.Tab.1.bottom/53.23.1387.877@53.23.1387.877" timestamp="1585287929240" />
-    <state width="1345" height="285" key="GridCell.Tab.1.center" timestamp="1585287929239">
+    <state width="1345" height="230" key="GridCell.Tab.1.bottom/50.23.1390.877@50.23.1390.877" timestamp="1585300815326" />
+    <state width="1345" height="230" key="GridCell.Tab.1.bottom/52.23.1388.877@52.23.1388.877" timestamp="1585300422982" />
+    <state width="1345" height="230" key="GridCell.Tab.1.bottom/53.23.1387.877@53.23.1387.877" timestamp="1585549452355" />
+    <state width="1345" height="230" key="GridCell.Tab.1.center" timestamp="1585549452354">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
-    <state width="1345" height="285" key="GridCell.Tab.1.center/53.23.1387.877@53.23.1387.877" timestamp="1585287929239" />
-    <state width="1345" height="285" key="GridCell.Tab.1.left" timestamp="1585287929238">
+    <state width="1345" height="230" key="GridCell.Tab.1.center/50.23.1390.877@50.23.1390.877" timestamp="1585300815325" />
+    <state width="1345" height="230" key="GridCell.Tab.1.center/52.23.1388.877@52.23.1388.877" timestamp="1585300422980" />
+    <state width="1345" height="230" key="GridCell.Tab.1.center/53.23.1387.877@53.23.1387.877" timestamp="1585549452354" />
+    <state width="1345" height="230" key="GridCell.Tab.1.left" timestamp="1585549452354">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
-    <state width="1345" height="285" key="GridCell.Tab.1.left/53.23.1387.877@53.23.1387.877" timestamp="1585287929238" />
-    <state width="1345" height="285" key="GridCell.Tab.1.right" timestamp="1585287929239">
+    <state width="1345" height="230" key="GridCell.Tab.1.left/50.23.1390.877@50.23.1390.877" timestamp="1585300815324" />
+    <state width="1345" height="230" key="GridCell.Tab.1.left/52.23.1388.877@52.23.1388.877" timestamp="1585300422979" />
+    <state width="1345" height="230" key="GridCell.Tab.1.left/53.23.1387.877@53.23.1387.877" timestamp="1585549452354" />
+    <state width="1345" height="230" key="GridCell.Tab.1.right" timestamp="1585549452355">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
-    <state width="1345" height="285" key="GridCell.Tab.1.right/53.23.1387.877@53.23.1387.877" timestamp="1585287929239" />
+    <state width="1345" height="230" key="GridCell.Tab.1.right/50.23.1390.877@50.23.1390.877" timestamp="1585300815326" />
+    <state width="1345" height="230" key="GridCell.Tab.1.right/52.23.1388.877@52.23.1388.877" timestamp="1585300422981" />
+    <state width="1345" height="230" key="GridCell.Tab.1.right/53.23.1387.877@53.23.1387.877" timestamp="1585549452355" />
     <state width="1345" height="285" key="GridCell.Tab.2.bottom" timestamp="1585287929241">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
@@ -361,34 +671,21 @@
       <screen x="53" y="23" width="1387" height="877" />
     </state>
     <state width="1345" height="285" key="GridCell.Tab.2.right/53.23.1387.877@53.23.1387.877" timestamp="1585287929241" />
+    <state x="284" y="125" key="Maven.ArtifactSearchDialog" timestamp="1585297894733">
+      <screen x="52" y="23" width="1388" height="877" />
+    </state>
+    <state x="284" y="125" key="Maven.ArtifactSearchDialog/52.23.1388.877@52.23.1388.877" timestamp="1585297894733" />
     <state width="693" height="438" key="XDebugger.FullValuePopup" timestamp="1585287662015">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
     <state width="693" height="438" key="XDebugger.FullValuePopup/53.23.1387.877@53.23.1387.877" timestamp="1585287662015" />
-    <state x="194" y="224" key="new project wizard" timestamp="1585286205348">
+    <state x="519" y="225" width="689" height="472" key="find.popup" timestamp="1585548778800">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
-    <state x="194" y="224" key="new project wizard/53.23.1387.877@53.23.1387.877" timestamp="1585286205348" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/lee/model/MyUserDetails.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/lee/config/SecurityConfig.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/distributed-security-uaa/src/main/java/lee/model/MyUserDetails.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="519" y="225" width="689" height="472" key="find.popup/53.23.1387.877@53.23.1387.877" timestamp="1585548778800" />
+    <state x="194" y="224" key="new project wizard" timestamp="1585295225473">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state x="194" y="224" key="new project wizard/53.23.1387.877@53.23.1387.877" timestamp="1585295225473" />
   </component>
 </project>
